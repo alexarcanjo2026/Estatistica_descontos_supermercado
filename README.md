@@ -1,2 +1,3 @@
 # Estatistica_descontos_supermercado
 "Por que alguns produtos têm desconto e outros não? Análise estatística de preços de um supermercado, do zero ao gráfico interativo, com Python."
+Este projeto aplica conceitos de estatística descritiva para investigar o comportamento de preços e descontos em uma base real de produtos de um supermercado do Chile. A partir de médias, medianas, desvio padrão e identificação de outliers, o objetivo é entender quais categorias têm maior variação de preço e como marcas diferentes se posicionam em relação a descontos — tudo isso com visualizações interativas feitas em Python.
